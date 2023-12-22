@@ -1,0 +1,47 @@
+{
+    "menu": {
+        "home": "Main",
+        "product": "Product",
+        "basket": "Basket"
+    },
+    "messages": {
+        "welcome": "Glad to see you in our store",
+        "currentLanguage": "Current language",
+        "loginTitle": "Log in to use the site",
+        "loginButton": "Sign in",
+        "Logout": "Go out",
+        "onAddProduct": "Add product"
+    },
+    "actionTitles": {
+        "login": "Login",
+        "logout": "Logout",
+        "addTask": "Add task"
+    },
+    "CardEdit": {
+        "imgSrc": "add a picture link",
+        "title": "add name",
+        "oldPrice": "add the old price",
+        "price": "add the old price",
+        "link": "add link",
+        "brand": "add brand",
+        "seller": "add seller",
+        "onCancel": "Clean up"
+    },
+    "CardItem": {
+        "cartPrice": "UAH",
+        "onEdit": "Edit",
+        "onDeleteItem": "Remove",
+        "onAddBasket": "In the basket",
+        "cardTitle": "laptop"
+    },
+    "CardFilter": {
+        "cardSellerTitle": "Seller",
+        "cardBrandTitle": "Brand",
+        "cardAlphabeticalTitle": "Alphabetical index"
+    },
+    "BasketView": {
+        "basketPriceZero": "Add the product to the cart",
+        "basketPrice": "UAH",
+        "onBack": "Shopping"
+    }
+}

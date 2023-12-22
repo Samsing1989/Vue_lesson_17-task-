@@ -1,0 +1,47 @@
+{
+    "menu": {
+        "home": "Головна",
+        "product": "Товари",
+        "basket": "Корзина"
+    },
+    "messages": {
+        "welcome": "Радий Вас бачити у нас в магазині",
+        "currentLanguage": "Пооточна мова",
+        "loginTitle": "Увійдіть для користування сайтом",
+        "loginButton": "Увійти",
+        "Logout": "Вийти",
+        "onAddProduct": "Додати товар"
+    },
+    "actionTitles": {
+        "login": "Увійти",
+        "logout": "Вийти",
+        "addTask": "Додати задачу"
+    },
+    "CardEdit": {
+        "imgSrc": "додати посилання картинки",
+        "title": "додати назву",
+        "oldPrice": "додати стару ціну",
+        "price": "додати нову ціну",
+        "link": "додати посилання",
+        "brand": "додати бренд",
+        "seller": "додати продавеця",
+        "onCancel": "Очистити"
+    },
+    "CardItem": {
+        "cartPrice": "грн",
+        "onEdit": "Редагувати",
+        "onDeleteItem": "Видалити",
+        "onAddBasket": "В корзину",
+        "cardTitle": "Ноутбук"
+    },
+    "CardFilter": {
+        "cardSellerTitle": "Продавець",
+        "cardBrandTitle": "Бренд",
+        "cardAlphabeticalTitle": "Алфавітний вказівник"
+    },
+    "BasketView": {
+        "basketPriceZero": "Добавте товар в корзину",
+        "basketPrice": "грн",
+        "onBack": "За покупками"
+    }
+}
